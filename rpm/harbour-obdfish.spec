@@ -14,7 +14,7 @@ Name:       harbour-obdfish
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:    harbour-obdfish
 Version:    0.94
-Release:    3
+Release:    4
 Group:      Qt/Qt
 License:    GPLv3
 URL:        http://example.org/
