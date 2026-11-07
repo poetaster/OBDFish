@@ -14,7 +14,7 @@ Name:       harbour-obdfish
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:    harbour-obdfish
 Version:    0.94
-Release:    1
+Release:    3
 Group:      Qt/Qt
 License:    GPLv3
 URL:        http://example.org/
@@ -31,7 +31,7 @@ BuildRequires:  kf5bluezqt-bluez5-devel
 BuildRequires:  desktop-file-utils
 
 %description
-Short description of my SailfishOS Application
+This is an application for Sailfish OS, which connects to an OBD ELM327 bluetooth car diagnostic reader.
 
 
 %prep
